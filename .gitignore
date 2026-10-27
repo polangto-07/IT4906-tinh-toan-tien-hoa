@@ -1,0 +1,4 @@
+ga_experiment.exe
+results/
+results_smoke/
+*.tmp
